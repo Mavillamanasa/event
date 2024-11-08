@@ -1,0 +1,8 @@
+#spring,#camera,#water,#butterfly{
+    width: 350px;
+    height:300px;
+}
+#spring img,#camera img,#water img,#butterfly img{
+    width: 100%;
+    height:70%;
+}
